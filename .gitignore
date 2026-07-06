@@ -2,4 +2,8 @@
 /scratch/
 /target/
 
+.bin/
+.obj/
 .tytusrconfig
+bin/
+obj/
