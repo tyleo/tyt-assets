@@ -1,0 +1,47 @@
+{
+  "conversations": [
+    [
+      {
+        "role": "system",
+        "content": "# Style Guide\n\n1. Generate the final image in a top-corner orthographic view on a pure black background.\n2. Images should be in an axis-align voxel style\n\n## Prompt\n"
+      },
+      {
+        "role": "system",
+        "content": "The requested objects should be blue.\n"
+      },
+      {
+        "role": "user",
+        "content": "A monkey eating a banana"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "image": "1.png",
+        "responseId": "resp_0cfe576f6f02d7bf006a2013cf1f30819a985a73234b84212c"
+      }
+    ],
+    [
+      {
+        "role": "system",
+        "content": "# Style Guide\n\n1. Generate the final image in a top-corner orthographic view on a pure black background.\n2. Images should be in an axis-align voxel style\n\n## Prompt\n"
+      },
+      {
+        "role": "system",
+        "content": "The requested objects should be blue.\n"
+      },
+      {
+        "role": "user",
+        "content": "Make the monkey roughly 10x smaller but put 5 of them in the image in a circle",
+        "image": "1.png"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "image": "2.png",
+        "revisedPrompt": "axis-aligned voxel style image on a pure black background, top-corner orthographic view. A blue voxel monkey holding a yellow banana, same style as reference, but each monkey is roughly 10x smaller than before. Five identical small blue voxel monkeys are arranged evenly spaced in a circle formation, all facing outward from the center of the circle. Maintain clean lighting and sharp voxel detail.",
+        "responseId": "resp_0dce9858efa3f159006a20283d01dc819897959f84fc104e55"
+      }
+    ]
+  ],
+  "nextImageId": 3
+}

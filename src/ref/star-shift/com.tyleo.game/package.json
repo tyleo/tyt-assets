@@ -1,0 +1,19 @@
+{
+    "name": "com.tyleo.game",
+    "displayName": "Tyleo.Game",
+    "version": "0.1.0",
+    "unity": "6.3",
+    "description": "Tyleo game code.",
+    "author": {
+        "name": "tyleo",
+        "email": "unity@tyleo.com",
+        "url": "https://www.tyleo.com"
+    },
+    "dependencies": {
+        "com.tyleo": "file:../com.tyleo",
+        "com.tyleo.collections": "file:../com.tyleo.collections",
+        "com.tyleo.gitignore": "file:../com.tyleo.logging.gitignore",
+        "com.tyleo.idsys": "file:../com.tyleo.idsys",
+        "com.tyleo.logging": "file:../com.tyleo.logging"
+    }
+}

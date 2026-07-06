@@ -1,0 +1,15 @@
+{
+    "name": "com.tyleo.logging.core",
+    "displayName": "Tyleo.Logging.Core",
+    "version": "0.1.0",
+    "unity": "6.3",
+    "description": "Logging integration for Tyleo code.",
+    "author": {
+        "name": "tyleo",
+        "email": "unity@tyleo.com",
+        "url": "https://www.tyleo.com"
+    },
+    "dependencies": {
+        "com.tyleo.logging": "file:../com.tyleo.logging"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tyleo.Game",
+    "references": [
+        "Tyleo",
+        "Tyleo.Collections",
+        "Tyleo.GitIgnore",
+        "Tyleo.IdSys",
+        "Tyleo.Logging"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "System.Runtime.CompilerServices.Unsafe.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

@@ -1,0 +1,13 @@
+{
+    "name": "com.tyleo.gitignore",
+    "displayName": "Tyleo.GitIgnore",
+    "version": "0.1.0",
+    "unity": "6.3",
+    "description": "GitIgnore-style regex matching for file paths.",
+    "author": {
+        "name": "tyleo",
+        "email": "unity@tyleo.com",
+        "url": "https://www.tyleo.com"
+    },
+    "dependencies": {}
+}

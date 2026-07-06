@@ -1,0 +1,13 @@
+{
+    "name": "com.tyleo.logging",
+    "displayName": "Tyleo.Logging",
+    "version": "0.1.0",
+    "unity": "6.3",
+    "description": "Logging interfaces and helpers for Tyleo code.",
+    "author": {
+        "name": "tyleo",
+        "email": "unity@tyleo.com",
+        "url": "https://www.tyleo.com"
+    },
+    "dependencies": {}
+}
