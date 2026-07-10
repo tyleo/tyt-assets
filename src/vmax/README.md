@@ -2,6 +2,16 @@
 
 ## Index
 
+### emissive.vmax
+
+A Voxel Max file with one object whose eight voxels step up in emission.
+
+**Objects**:
+
+1. "Object 0": an object with eight voxels, each stepping up in emission from 0 to 100 in eighths (`0 * 100/8`, `1 * 100/8`, ... `7 * 100/8`)
+
+**Opened Editor**: "Object 0"
+
 ### empty.vmax
 
 An empty Voxel Max file.
